@@ -1,6 +1,6 @@
 name: TrawelWithTimo
 favicon: null
-layout_spectrum: 0.84395
+layout_spectrum: 0.9219
 typography_spectrum: 0.23243
 title: Travel with Timo
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#f1f1ef'
+    - '#8b8683'
+    - '#54dafd'
+    - '#007ab5'
   brandStrength: 0
   lightness: 0.875
   saturation: 0.0625

@@ -1,0 +1,28 @@
+name: TrawelWithTimo
+favicon: null
+layout_spectrum: 0.5697553802747279
+typography_spectrum: 0.08727380051277578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7524821641854942
+  lightness: 0.9437967920675874
+  saturation: 0.02272976515814662
+  rhythmicContrast: 0.4318714812397957
+purpose: []

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The Best Family Resort in the World – Sueno Hotel Deluxe Belek
-datePublished: '2015-12-14T17:58:09.965Z'
-dateModified: '2015-12-14T17:58:03.492Z'
+datePublished: '2015-12-14T19:55:47.111Z'
+dateModified: '2015-12-14T19:55:37.963Z'
 title: |-
   The Best Family Resort in the World – Sueno Hotel
   Deluxe Belek
@@ -89,6 +89,7 @@ different meal every day. Or eat burgers and fries every day, if you want to.
 High quality combined with easy atmosphere and no hassles with money. 
 
 **La Dolce Vita**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dc0c567-1b42-4c75-ba6c-53c9cbd82337.jpg)
 
 Miss Roza Sansizbaeva, guest relations representative at
 Sueno Hotel Deluxe Belek, told me that the main idea of this new resort has
@@ -101,4 +102,3 @@ available for a reasonable sum of money, let me know. I'd be more than surprised
 if someone could show me a better family resort than Sueno Hotel Deluxe Belek. Until
 then, Sueno Hotel Deluxe Belek is my champion in this demanding race.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d002f8f-8f25-4437-b954-0da06ebf6ecf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dc0c567-1b42-4c75-ba6c-53c9cbd82337.jpg)

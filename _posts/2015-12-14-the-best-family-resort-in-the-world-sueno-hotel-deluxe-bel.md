@@ -6,11 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: The Best Family Resort in the World – Sueno Hotel Deluxe Belek
-datePublished: '2015-12-14T19:55:47.111Z'
-dateModified: '2015-12-14T19:55:37.963Z'
-title: |-
-  The Best Family Resort in the World – Sueno Hotel
-  Deluxe Belek
+datePublished: '2015-12-14T19:57:38.027Z'
+dateModified: '2015-12-14T19:57:33.684Z'
+title: The Best Family Resort in the World
 author: []
 sourcePath: _posts/2015-12-14-the-best-family-resort-in-the-world-sueno-hotel-deluxe-bel.md
 published: true
@@ -26,8 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e1d782c-1864-4bd1-8ecd-f035b602749a.jpg)
 
-# The Best Family Resort in the World -- Sueno Hotel
-Deluxe Belek
+# The Best Family Resort in the World
 
 I have an
 11-year-old son. During the last decade I've experienced almost 15
